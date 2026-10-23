@@ -1,7 +1,5 @@
 -- ============================================================================
--- Course: BCSE302P - Database Systems Laboratory
 -- Project: PulseCare Smart Hospital Resource & Billing Management System
--- Student: Sayan Giri (Reg No: 24BCT0281)
 -- Script 01: Relational Schema DDL & Constraints
 -- Target DBMS: Oracle Database 21c XE
 -- ============================================================================

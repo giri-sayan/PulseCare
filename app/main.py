@@ -1,7 +1,5 @@
 """
 PulseCare Smart Hospital Management System
-Course: BCSE302P - Database Systems Laboratory
-Student: Sayan Giri (Reg No: 24BCT0281)
 Front-End Integration with Oracle Database 21c XE / High-Performance Standalone Engine
 """
 
@@ -135,7 +133,7 @@ def query_df(sql, params=None):
 # Sidebar Navigation
 st.sidebar.image("https://img.icons8.com/fluency/96/hospital.png", width=70)
 st.sidebar.title("PulseCare HMS")
-st.sidebar.caption("BCSE302P Mini Project | Sayan Giri (24BCT0281)")
+st.sidebar.caption("PulseCare Clinical Systems v1.0")
 
 if db_mode == "ORACLE":
     st.sidebar.markdown('<span class="badge-oracle">🟢 Oracle Database 21c XE (Live)</span>', unsafe_allow_html=True)

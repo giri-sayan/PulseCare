@@ -1,7 +1,5 @@
 -- ============================================================================
--- Course: BCSE302P - Database Systems Laboratory
 -- Project: PulseCare Smart Hospital Resource & Billing Management System
--- Student: Sayan Giri (Reg No: 24BCT0281)
 -- Script 02: Realistic Seed Data Insertion
 -- ============================================================================
 

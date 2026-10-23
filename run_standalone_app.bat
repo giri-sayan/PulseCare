@@ -7,8 +7,6 @@ set "PATH=%LOCALAPPDATA%\Programs\Python\Python312;%LOCALAPPDATA%\Programs\Pytho
 
 echo =====================================================================
 echo Starting PulseCare Standalone Enterprise Application...
-echo Course: BCSE302P - Database Systems Laboratory
-echo Student: Sayan Giri (24BCT0281)
 echo =====================================================================
 echo.
 echo Launching background server and standalone desktop window...

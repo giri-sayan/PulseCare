@@ -7,8 +7,6 @@ set "PATH=%LOCALAPPDATA%\Programs\Python\Python312;%LOCALAPPDATA%\Programs\Pytho
 
 echo =====================================================================
 echo Starting PulseCare Hospital Management System (Streamlit Web App)...
-echo Course: BCSE302P - Database Systems Laboratory
-echo Student: Sayan Giri (24BCT0281)
 echo =====================================================================
 echo Opening PulseCare web dashboard...
 python -m streamlit run app/main.py

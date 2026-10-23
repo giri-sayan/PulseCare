@@ -1,7 +1,5 @@
 -- ============================================================================
--- Course: BCSE302P - Database Systems Laboratory
 -- Project: PulseCare Smart Hospital Resource & Billing Management System
--- Student: Sayan Giri (Reg No: 24BCT0281)
 -- Script 08: Comprehensive Automated Verification & Test Suite
 -- ============================================================================
 
@@ -12,7 +10,6 @@ SET PAGESIZE 100
 
 PROMPT ============================================================================
 PROMPT PULSECARE SYSTEM - AUTOMATED VERIFICATION AND TESTING SUITE
-PROMPT Student: Sayan Giri | Reg No: 24BCT0281
 PROMPT ============================================================================
 
 -- ----------------------------------------------------------------------------

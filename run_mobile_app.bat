@@ -7,8 +7,6 @@ set "PATH=%LOCALAPPDATA%\Programs\Python\Python312;%LOCALAPPDATA%\Programs\Pytho
 
 echo ======================================================================
 echo   PulseCare - Smart Hospital Mobile Application (PWA)
-echo   Course: BCSE302P - Database Systems Laboratory
-echo   Student: Sayan Giri (24BCT0281)
 echo ======================================================================
 echo.
 
