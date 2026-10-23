@@ -1,0 +1,65 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Virtual environment and IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary debug crops, test scripts and inspection tools
+test_sub.txt
+screenshots/debug_*
+screenshots/slice_*
+screenshots/test_*
+*.tmp
+ss1/
+
+# Scratch verification and inspection scripts
+final_clean.py
+add_bat_commit.py
+update_gitignore_commit.py
+verify_repo_state.py
+check_windows.py
+kill_hanging_git.py
+attempt_push.py
+check_git_auth.py
+clean_commit.py
+git_flow.py
+analyze_exact_crops.py
+audit_full_report.py
+check_*.py
+count_docx_images.py
+detailed_inspect.py
+find_*.py
+generate_final_figures.py
+get_page_count.ps1
+inspect_*.py
+list_*.py
+print_dashboard_analysis.py
+process_*.py
+report_template_dump.txt
+save_debug_crops.py
+search_for_git_on_system.py
+setup_portable_git.py
+update_fig_5_1.py
+verify_all_image_files_exist.py
+verify_app_name_text.py
+verify_fig5_4_toast.py
+verify_final_output.py
+verify_seams.py
+verify_seam_visuals.py
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
